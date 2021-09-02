@@ -1,0 +1,29 @@
+body{
+    background-color: #211b1b
+}
+.topic{
+    background-color: #211b1b;
+    color: white;
+    font-family: Avenir;
+    border-radius: 45px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap
+}
+
+.Python{
+    background-color: #3b3b3b;
+    color: #ffffff;
+    font-family: Avenir;
+    border-radius: 45px;
+}
+
+.JavaScript{
+    background-color: #3b3b3b;
+    color: #ffffff;
+    font-family: Avenir;
+    border-radius: 45px;
+}
